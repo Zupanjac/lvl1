@@ -15,13 +15,14 @@ name, poster, additional info and trailer which will open if you click on the po
 
 ## Quick start
 
-Several quick start options are available:
+Two quick start options are available:
 
 * [Download the latest release](https://github.com/Zupanjac/lvl1/archive/master.zip).
+or
 * Clone the repo: `git clone https://github.com/Zupanjac/lvl1.git`.
 
 ## Requirements
-* [pyhon 2.7](https://www.python.org/downloads/)
+* Download and install [pyhon 2.7](https://www.python.org/downloads/)
 
 ## How to run
 To see my movie page run:
@@ -31,7 +32,7 @@ To see my movie page run:
 Web page should open, if not open the created fresh_tomatoes.html
 
 ## Creator
-Zupanjac
+[Zupanjac](https://github.com/Zupanjac)
 
 ## License
 
