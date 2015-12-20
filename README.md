@@ -9,7 +9,8 @@
 ## Overview
 
 This project shows the usage of python to create my favorite movie page with
-name, poster, additional info and trailer which will open if you click on the poster
+name, poster, additional info and trailer which will open if you click on the
+poster image
 
 ![Example](https://github.com/Zupanjac/lvl1/blob/master/Movie.png)
 
@@ -18,14 +19,13 @@ name, poster, additional info and trailer which will open if you click on the po
 Two quick start options are available:
 
 * [Download the latest release](https://github.com/Zupanjac/lvl1/archive/master.zip).
-or
-* Clone the repo: `git clone https://github.com/Zupanjac/lvl1.git`.
+* Clone the repo: `git clone https://github.com/Zupanjac/lvl1.git`
 
 ## Requirements
-* Download and install [pyhon 2.7](https://www.python.org/downloads/)
+* Download and install [pyhton 2.7](https://www.python.org/downloads/)
 
 ## How to run
-To see my movie page run:
+To see my movie page run the following command:
 
   `entertaiment_center.py`
 
