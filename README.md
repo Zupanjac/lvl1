@@ -11,6 +11,8 @@
 This project shows the usage of python to create my favorite movie page with
 name, poster, additional info and trailer which will open if you click on the poster
 
+![Example](https://github.com/Zupanjac/lvl1/blob/master/Movie.png)
+
 ## Quick start
 
 Several quick start options are available:
