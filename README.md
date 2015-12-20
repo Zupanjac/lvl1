@@ -14,7 +14,7 @@ Several quick start options are available:
 
 ## How to run
 To see my movie run
-  'entertaiment_center.py'
+  `entertaiment_center.py`
 
 ## Creator
 Zupanjac
