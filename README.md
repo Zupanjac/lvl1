@@ -1,10 +1,14 @@
 ## Table of contents
-
+* [Overview](#overview)
 * [Quick start](#quick-start)
-* [Requirements](#Requirements)
+* [Requirements](#requirements)
 * [How to run](#how-to-run)
 * [Creator](#creator)
-* [License](#License)
+* [License](#license)
+
+## Overview
+
+This project shows the usage of python to create my favorite movie page
 
 ## Quick start
 
