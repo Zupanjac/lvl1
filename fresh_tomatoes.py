@@ -105,7 +105,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Luka's Movie Trailers</a>
+            <a class="navbar-brand" href="#">Luka's Movie List</a>
           </div>
         </div>
       </div>

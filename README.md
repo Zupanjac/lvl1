@@ -8,7 +8,8 @@
 
 ## Overview
 
-This project shows the usage of python to create my favorite movie page
+This project shows the usage of python to create my favorite movie page with
+name, poster, additional info and trailer which will open if you click on the poster
 
 ## Quick start
 
